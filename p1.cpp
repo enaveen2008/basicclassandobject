@@ -18,7 +18,7 @@ private:  // Private Data Members
     float price;
   
 public:
-    // Constructor
+    // Constructor default
     Book(string t, string a, float p) {
         title = t;
         author = a;
